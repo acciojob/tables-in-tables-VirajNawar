@@ -17,3 +17,24 @@
     align-items: center;
     justify-content: center;
 }
+
+.td-nested-4{
+    background-color: black;
+    color: white;
+}
+
+.nested-2{
+    padding: 60px 0px;
+}
+
+.nested-1{
+    padding: 60px 0px;
+}
+
+.nested-3{
+    
+    padding: 35px 0px;
+}
+.nested-4{
+    padding: 34px 0px;
+}
